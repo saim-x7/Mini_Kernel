@@ -38,7 +38,7 @@ Visualization:
 
    💻 Installation & UsagePrerequisites
    GCC CompilerMake (Optional, but recommended)
-   1. Clone the RepositoryBashgit clone https://github.com/saim_x7/mini-os-kernel.git
+   1. Clone the RepositoryBashgit clone https://github.com/saim-x7/mini-os-kernel.git
       -->cd mini-os-kernel
     CompileUse the included Makefile to compile the source code:
       -->make
